@@ -8,6 +8,7 @@ The [Adafruit IO](https://io.adafruit.com/) service handles the incoming message
 
 The GPIO pins can be connected to any external device to remotely turn it ON or OFF and even RESET it.
 
-![Dashboard](./MQTT_Final_ Web_UI)
+![Dashboard Web_UI](https://user-images.githubusercontent.com/61059109/140608841-5fffc5b0-7618-409e-b784-a5a5388757a1.png)
+
 
 
