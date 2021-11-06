@@ -1,3 +1,4 @@
+# ESP32 GunSlinger
 This project is my take on making a smart remote switch which can be connected to any wifi network to turn devices ON or OFF through the internet.
 
 This project uses the [Adafruit HUZZAH32 – ESP32 Feather Board](https://www.adafruit.com/product/3405) which is based on the [ESPRESSIF ESP32 MCU](https://www.espressif.com/en/products/socs/esp32) to listen to incoming messages and switch its GPIO pins on or off.
